@@ -14,7 +14,6 @@ Aprendendo os recursos do Git e Git Hub.
 1.7 git add: prepara o arquivo para fazer o checkpoint (commit)  
 1.8 git config --global user.name "Seu Nome": para definir seu nome como responsavel pelo commit  
 1.9 git config --global user.email "SeuEmail": para definir o email do responsavel pelo commit  
-
 1.10 git commit -m : "commita" o arquivo e permite deixar uma mensagem  
 1.11 git status: mostra o que tem para ser commitado  
 1.12 git log: mostra o histórico  
@@ -33,5 +32,5 @@ Possibilita criar uma cópia de um arquivo e trabalhar nesta cópia, uma vez que
 ### Git Hub
 
 1.19 git clone <link https do repositório criado no GitHub (nuvem)>: acessa localmente o repositório criado no GitHub  
-1.20 git push <origin brench_remoto> : empurra do local para o remoto  
-1.21 git pull <main> : Incorpora alterações de um repositório remoto no ramo local.  
+1.20 git push <origin brench_remoto>: empurra do local para o remoto  
+1.21 git pull <main>: Incorpora alterações de um repositório remoto no ramo local.  
