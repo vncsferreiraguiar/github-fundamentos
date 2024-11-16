@@ -30,5 +30,5 @@ Possibilita criar uma cópia de um arquivo e trabalhar nesta cópia, uma vez que
 
 ### Git Hub
 1.19 git clone <link https do repositório criado no GitHub (nuvem)>: acessa localmente o repositório criado no GitHub  
-1.20 git push <origin brench_remoto>: empurra do local para o remoto  
+1.20 git push <origin brench_remoto>: empurra do local para o remoto
 1.21 git pull <main>: Incorpora alterações de um repositório remoto no ramo local
