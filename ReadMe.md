@@ -22,7 +22,6 @@ Aprendendo os recursos do Git e Git Hub.
 
 ### Conceito de branch:  
 Possibilita criar uma cópia de um arquivo e trabalhar nesta cópia, uma vez que, esteja satisfeito com a copia-lo em cima do arquivo original.  
-
 1.15 git branch: retorna a branch atual  
 1.16 git checkout -b <nome da branch (nova)> : cria uma nova branch  
 1.17 git merge <nome da branch (nova)>: junta as mudanças da nova branch com a master (main). [Detalhe: você precisa estar na branch master(main).]  
@@ -30,7 +29,6 @@ Possibilita criar uma cópia de um arquivo e trabalhar nesta cópia, uma vez que
 
 
 ### Git Hub
-
 1.19 git clone <link https do repositório criado no GitHub (nuvem)>: acessa localmente o repositório criado no GitHub  
 1.20 git push <origin brench_remoto>: empurra do local para o remoto  
-1.21 git pull <main>: Incorpora alterações de um repositório remoto no ramo local.
+1.21 git pull <main>: Incorpora alterações de um repositório remoto no ramo local
