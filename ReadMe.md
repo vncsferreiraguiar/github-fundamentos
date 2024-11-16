@@ -22,7 +22,6 @@ Aprendendo os recursos do Git e Git Hub.
 
 ### Conceito de branch:  
 Possibilita criar uma cópia de um arquivo e trabalhar nesta cópia, uma vez que, esteja satisfeito com a copia-lo em cima do arquivo original.  
-
 1.15 git branch: retorna a branch atual  
 1.16 git checkout -b <nome da branch (nova)> : cria uma nova branch  
 1.17 git merge <nome da branch (nova)>: junta as mudanças da nova branch com a master (main). [Detalhe: você precisa estar na branch master(main).]  
